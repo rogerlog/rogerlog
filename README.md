@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rogerguimmaraes/)](https://www.instagram.com/rogerguimmaraes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:logroger@gmail.com)](mailto:logroger@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/rogerguimmaraes)](https://www.twitter.com/rogerguimmaraes)
-[![Github Badge]https://img.shields.io/badge/-github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rogerlog/](https://github.com/rogerlog)
+[![Github Badge](https://img.shields.io/badge/-github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rogerlog)](https://github.com/rogerlog)
 
 I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
 
