@@ -8,10 +8,7 @@
 
  
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerlog&bg_color=ffffff&text_color=333333">
-  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerlog&layout=compact)](https://github.com/rogerlog/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerlog&layout=compact&bg_color=ffffff&text_color=333333">
 
 <br/>
 
