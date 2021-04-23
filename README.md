@@ -7,8 +7,7 @@
 [![Github Badge](https://img.shields.io/badge/-github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rogerlog)](https://github.com/rogerlog)
 
  
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerlog&layout=compact&bg_color=ffffff&text_color=333333">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerlog&layout=compact&bg_color=ffffff&text_color=333333">
 
 <br/>
 
